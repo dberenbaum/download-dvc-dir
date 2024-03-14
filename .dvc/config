@@ -2,3 +2,5 @@
     remote = storage
 ['remote "storage"']
     url = s3://dave-sandbox/cache
+['remote "gs"']
+    url = gs://dave-sandbox/cache
