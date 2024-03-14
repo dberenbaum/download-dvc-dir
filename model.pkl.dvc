@@ -3,4 +3,3 @@ outs:
   size: 2840385
   hash: md5
   path: model.pkl
-  remote: gs
